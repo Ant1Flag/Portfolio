@@ -14,4 +14,4 @@ Good knowledge of c#, basic level of c++, SQL, HTTP, TCP/IP
 
 ### Projects
 
-Soon 
+https://www.codewars.com/users/Ant1Flag
